@@ -1,0 +1,1 @@
+This site was created for one of the test tasks, using layout skills, slider animation, accordion 
